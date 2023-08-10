@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Olá, eu sou a Natalia!
 
 Paulista, tenho uma gatinha amarela, sou fã de todos os ritmos de música em especial o forró ♥
@@ -10,3 +11,6 @@ Hoje eu estudo Programação focado em dados e tudo que envolva o mundo de dados
 >SAS
 >SAP BO
 >Tableauteste
+=======
+# NataliaRos4
+>>>>>>> 793a9fdc9138aeae29294953c542253a3e0bee79
