@@ -3,7 +3,7 @@
 
 Paulista, tenho uma gatinha amarela, sou fã de todos os ritmos de música em especial o forró ♥
 
-Sou economista de formação e trabalho como Analista de Pricing com foco em dados na Getnet. Estou no 1º semestre de Tecnologia em Banco de dados pela Impacta.
+Sou economista de formação e trabalho como Analista de Pricing com foco em dados na Getnet.
 
 Hoje eu estudo Programação focado em dados e tudo que envolva o mundo de dados, tudo que eu consigo estudar rs.
 
