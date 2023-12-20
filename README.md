@@ -5,8 +5,6 @@ Paulista, tenho uma gatinha amarela, sou fã de todos os ritmos de música em es
 
 Sou economista de formação e trabalho como Analista de Pricing com foco em dados na Getnet.
 
-Hoje eu estudo Programação focado em dados e tudo que envolva o mundo de dados, tudo que eu consigo estudar rs.
-
 >Phyton
 >SAS
 >SAP BO
